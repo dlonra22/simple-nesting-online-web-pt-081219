@@ -79,7 +79,7 @@ add = {:yukihiro_matsumoto => {
           :languages => ["C"]
         }
      }
-programmer_hash[]= add
+
     
 end
 
